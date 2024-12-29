@@ -1,0 +1,9 @@
+phidata
+python-dotenv
+newspaper4k
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
